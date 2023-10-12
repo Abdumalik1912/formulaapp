@@ -1,0 +1,2 @@
+# github
+print('Github uchun')
